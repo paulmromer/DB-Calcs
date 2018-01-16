@@ -1,2 +1,2 @@
 # DB-Calcs
-Exploring the calculation of Doing Business rankings
+Open the Jupyter notebook called DB-Calcs.ipynb to see how I did my calculations
